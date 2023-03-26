@@ -6,3 +6,6 @@ year_born = 1995
 age = 27
 weight = 165
 
+account_balance = 7.77
+temperature = 98.5
+timed_run = 8.45
