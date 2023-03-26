@@ -13,3 +13,13 @@ timed_run = 8.45
 rent_paid = true 
 lunch_eaten = false 
 selling_car = false 
+
+email = "pkmnmaster777@aol.com"
+pet_name = "Enu"
+favorite_color = "blue"
+
+puts pet_name
+puts rent_paid
+puts email 
+puts age
+puts year_born
